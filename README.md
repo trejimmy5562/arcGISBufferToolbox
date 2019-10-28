@@ -4,5 +4,5 @@ this was a project for my GIS Programming class to create an easy buffer tool co
 ![Parameter Input](images/input.png "Input Parameters")
 
 
-![output GDB](https://github.com/trejimmy5562/arcGISBufferToolbox/tree/master/images/outputGDB.png "Output Geodatabase")
+![output GDB](images/outputGDB.png "Output Geodatabase")
 
